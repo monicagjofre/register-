@@ -1,0 +1,129 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+    ;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.menu a {
+    color: #FFF;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.formulario {
+    background-color: white;
+    display: block;
+    width: 1440;
+    height: 1085;
+    fill: white;
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Inter';
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'raleway';
+}
+
+.btn {
+    background-color: red;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    font-size: 10px;
+    font-family: 'Inter';
+
+}
+
+.register {
+    display: inline-block;
+
+}
+
+.cheked {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+a {
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.controles input {
+
+    margin-left: 100px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: red;
+
+}
+
+.controles label {
+
+    font-family: 'Inter';
+    justify-content: center;
+    margin-right: 100px;
+}
+
+
+footer {
+    margin-top: 30px;
+    width: 1440;
+    height: 343;
+    background-color: black;
+
+}
+
+.footerlinks {
+    color: white;
+    font-family: 'Inter';
+    font-size: 3px;
+    display: flex;
+    justify-content: space-between;
+    width: 134px;
+    height: 122px;
+    top: 85px;
+    left: 110px;
+
+
+}
+
+.logofooter {
+    justify-content: right;
+
+}
+
+.reservados {
+    text-align: end;
+}
